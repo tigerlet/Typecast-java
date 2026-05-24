@@ -1,7 +1,6 @@
 Typecast
 ========
 
-<https://typecast.dev.java.net/>
 
 Typecast is a font development environment for OpenType font technology.
 Developments include:
